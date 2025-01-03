@@ -1,6 +1,7 @@
 ---
 title: "First Post"
 date: 2025-01-03
+layout: default
 ---
 
 This is a first post.
