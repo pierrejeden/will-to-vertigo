@@ -1,11 +1,11 @@
 ---
-title: "Second Post"
-date: 2026-09-16
-lang: en
+title: "Andra posten"
+date: 2026-09-15
+lang: sv
 type: post
 topics: []
 translation_key: second-post
-slug: second-post
+slug: andra-posten
 layout: default
 ---
 
