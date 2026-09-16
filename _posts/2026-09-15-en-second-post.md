@@ -5,8 +5,9 @@ lang: en
 type: post
 topics: []
 translation_key: second-post
+translation_url: /andra-posten/
 slug: second-post
-layout: default
+layout: post
 ---
 
 This is a first post.

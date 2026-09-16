@@ -5,15 +5,16 @@ lang: sv
 type: post
 topics: []
 translation_key: second-post
+translation_url: /second-post/
 slug: andra-posten
-layout: default
+layout: post
 ---
 
-This is a first post.
+Det här är ett första inlägg.
 
-## headings work
+## Rubriker fungerar
 
-Does code highlighting work?
+Fungerar kodmarkering?
 
 ```python
 def myfunc(x: int) -> int:
@@ -26,6 +27,6 @@ $$
 \mathrm{Tr}\left[\mathbb{A}\right]
 $$
 
-this ref [^1] works?
+Fungerar denna referens [^1]?
 
 [^1]: This is a footnote

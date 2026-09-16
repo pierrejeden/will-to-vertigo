@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% if page.translation_url %}
+<p>
+  {% if page.lang == "sv" %}
+  <a href="{{ page.translation_url | relative_url }}">English version</a>
+  {% else %}
+  <a href="{{ page.translation_url | relative_url }}">Svensk version</a>
+  {% endif %}
+</p>
+{% endif %}
+
+{{ content }}
