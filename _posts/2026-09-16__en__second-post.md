@@ -1,6 +1,11 @@
 ---
-title: "First Post"
-date: 2025-01-03
+title: "Second Post"
+date: 2026-09-16
+lang: en
+type: post
+topics: []
+translation_key: second-post
+slug: second-post
 layout: default
 ---
 

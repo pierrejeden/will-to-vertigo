@@ -1,4 +1,10 @@
 title: "will-to-vertigo"
+description: "Writing by Pierre Jeden"
 theme: minima
 markdown: GFM
 permalink: /:title/
+url: "https://pierrejeden.github.io"
+baseurl: "/will-to-vertigo"
+header_pages:
+  - archive.md
+  - about.md

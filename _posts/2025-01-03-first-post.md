@@ -1,6 +1,10 @@
 ---
 title: "First Post"
 date: 2025-01-03
+lang: en
+type: post
+topics: []
+slug: first-post
 layout: default
 ---
 

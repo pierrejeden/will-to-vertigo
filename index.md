@@ -1,11 +1,7 @@
 ---
 title: Will to Vertigo
+layout: home
 ---
-This is some markdown content.
 
-inline formula $\alpha \otimes \beta$ and formula block:
-
-$$
-\mathrm{Tr}\left[\mathbb{A}\right]
-$$
+Writing about ideas, technology, and ordinary life.
 

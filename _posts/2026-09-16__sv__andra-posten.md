@@ -1,6 +1,11 @@
 ---
-title: "First Post"
-date: 2025-01-03
+title: "Andra posten"
+date: 2026-09-16
+lang: sv
+type: post
+topics: []
+translation_key: second-post
+slug: andra-posten
 layout: default
 ---
 
