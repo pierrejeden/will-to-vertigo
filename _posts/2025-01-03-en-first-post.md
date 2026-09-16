@@ -28,3 +28,4 @@ $$
 this ref [^1] works?
 
 [^1]: This is a footnote
+
