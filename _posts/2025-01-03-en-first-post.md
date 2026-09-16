@@ -8,7 +8,7 @@ slug: first-post
 layout: default
 ---
 
-This is a first post.
+This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post. This is a first post.
 
 ## headings work
 
